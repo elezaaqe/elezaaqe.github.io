@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elezaaqe.github.io/WRx/sitemap_index.txt
+Sitemap: https://elezaaqe.github.io/WfP/sitemap_index.txt
+Sitemap: https://elezaaqe.github.io/YhS/sitemap_index.txt
+Sitemap: https://elezaaqe.github.io/jtw/sitemap_index.txt
